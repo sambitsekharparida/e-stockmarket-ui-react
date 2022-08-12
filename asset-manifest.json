@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-stockmarket-ui-react/static/css/main.330f3845.css",
+    "main.js": "/e-stockmarket-ui-react/static/js/main.08e4d7d6.js",
+    "index.html": "/e-stockmarket-ui-react/index.html",
+    "main.330f3845.css.map": "/e-stockmarket-ui-react/static/css/main.330f3845.css.map",
+    "main.08e4d7d6.js.map": "/e-stockmarket-ui-react/static/js/main.08e4d7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330f3845.css",
+    "static/js/main.08e4d7d6.js"
+  ]
+}
